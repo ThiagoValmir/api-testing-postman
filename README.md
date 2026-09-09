@@ -14,6 +14,12 @@ Neste projeto foram criados e executados diferentes cenários de testes utilizan
 
 Além da execução manual das requisições, foram utilizados recursos do Postman para automatizar validações e facilitar o encadeamento entre diferentes requisições.
 
+![Postman Practice](screenshots/postman_practice.jpg)
+
+### Resultado da execução dos testes
+
+![Postman Test Results](screenshots/postman_extended_run_results.jpg)
+
 ### Principais conhecimentos praticados
 
 - Testes de APIs REST
